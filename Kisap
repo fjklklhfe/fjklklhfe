@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Obami",
+    logoscript = "1000002004",
+    tacgia = "oba"
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/applehub/BloxFruits/refs/heads/main/ffreescrips.lua"))()
