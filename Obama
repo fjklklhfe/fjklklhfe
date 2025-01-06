@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Obama",
+    logoscript = "1000002004",
+    tacgia = "oba"
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/applehub/vesion/refs/heads/main/scriptbffree.lua"))(
